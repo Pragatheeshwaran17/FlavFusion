@@ -85,6 +85,9 @@ nav a:hover{
     color:rgb(9, 71, 243);
     font-size: 1.7em;
 }
+.call:hover{
+    color: rgb(253, 254, 253);
+}
 .maintext button{
     width: 20vw;
     margin-top: 2em;
@@ -93,6 +96,9 @@ nav a:hover{
     background-color: #FFF3C7;
     color: green;
     border: 3px double green;
+}
+.maintext button:hover{
+    color: black;
 }
 
 .menu{
